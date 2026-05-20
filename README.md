@@ -29,6 +29,8 @@ Custom differential-drive rover featuring a fully 3D printed chassis, PWM motor 
 
 ## Challenges & Limitations
 
+- Due to low traction from rigid PLA wheels, removable rubber traction bands were added to the driven wheels to improve surface grip and drivetrain performance.
+
 ---
 
 ## Future Improvements 

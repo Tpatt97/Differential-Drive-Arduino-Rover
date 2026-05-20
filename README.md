@@ -95,7 +95,7 @@ Each motor is independently driven through a dedicated 2N2222 transistor stage w
 
 ### Wiring Diagram
 
-![Wiring Diagram](electronics/wiring_diagram.png)
+![Wiring Diagram](images/Wiring diagram.jpg)
 
 ---
 

@@ -47,7 +47,7 @@ The project combines:
 
 ### OLED Telemetry
 
-![OLED Telemetry](images/oled_telemetry.jpg)
+![OLED Telemetry](media/OLED_Telemetry.gif)
 
 ### Drivetrain Closeup
 

@@ -73,9 +73,17 @@ Key design objectives included:
 
 ### Fusion 360 Renders
 
-![Fusion Render](cad/renders/fusion_render_1.png)
+![Lower Chassis](images/cad_renders/Lower_Chassis.jpg)
 
-![Wheel Design](cad/renders/wheel_closeup.png)
+![Upper Electroncis Tray 1](images/cad_renders/Upper_Electronics_Tray_1.jpg)
+
+![Upper Electroncis Tray 2](images/cad_renders/Upper_Electronics_Tray_2.jpg)
+
+![Wheel Design - All](images/cad_renders/Wheels_1.jpg)
+
+![Right Rear Wheel](images/cad_renders/Right_Rear_Wheel.jpg)
+
+![Right Front Wheel](images/cad_renders/Right_Front_Wheel.jpg)
 
 ---
 

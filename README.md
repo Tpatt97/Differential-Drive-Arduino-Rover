@@ -43,18 +43,24 @@ The project combines:
 ## Media Section
 
 ### Final Rover Assembly
-
 ![Top View](images/Full_Assembly.JPG)
+
+### Lower Chassis
 ![Lower Chassis](images/Lower_Chassis_Assembly_side.JPG)
+
+### Upper Electronics Tray
 ![Upper Electronics Tray](images/Upper_Electronics_Tray.JPG)
+
+### Modular Assembly
+
+- The upper electronics tray was designed as a removable modular assembly using alignment pins and recessed magnetic attachment points integrated directly into the chassis geometry. This allowed rapid access to the embedded electronics while maintaining repeatable alignment and secure retention during operation.
+  
 ![Modular System](images/Modular_System_2.JPG)
 
 ### OLED Telemetry
-
 ![OLED Telemetry](media/gif/OLED_Telemetry.gif)
 
 ### Drivetrain Closeup
-
 ![Wheel Closeup 1](images/Drivetrain_Assembly1.JPG)
 ![Wheel Closeup](images/Drivetrain_Assembly2.JPG)
 

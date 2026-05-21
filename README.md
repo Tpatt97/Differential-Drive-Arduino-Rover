@@ -158,3 +158,9 @@ Planned future upgrades include:
 - Closed-loop speed control
 - Suspension system
 - Custom PCB integration
+
+---
+
+## Author
+
+Designed, fabricated, programmed, and documented by Trevor Patterson

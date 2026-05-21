@@ -1,7 +1,7 @@
 # Differential-Drive-Arduino-Rover
 Custom differential-drive rover featuring a fully 3D printed chassis, PWM motor control, joystick steering, and live OLED telemetry using Arduino.
 
-![Rover Demo](media/Rover_Demo.gif)
+![Rover Demo](media/gif/Rover_Demo.gif)
 
 ![HERO Image](images/cad_renders/Main.jpg)
 
@@ -49,7 +49,7 @@ The project combines:
 
 ### OLED Telemetry
 
-![OLED Telemetry](media/OLED_Telemetry.gif)
+![OLED Telemetry](media/gif/OLED_Telemetry.gif)
 
 ### Drivetrain Closeup
 

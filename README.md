@@ -40,9 +40,10 @@ The project combines:
 
 ### Final Rover Assembly
 
-![Front View](images/assembled_rover_front.jpg)
-
-![Side View](images/assembled_rover_side.jpg)
+![Top View](images/Full_Assembly.jpg)
+![Lower Chassis](images/Lower_Chassis_Assembly_side.jpg)
+![Upper Electronics Tray](images/Upper_Electronics_Tray.jpg)
+![Modular System](images/Modular_System_2.jpg)
 
 ### OLED Telemetry
 
@@ -50,7 +51,8 @@ The project combines:
 
 ### Drivetrain Closeup
 
-![Wheel Closeup](images/drivetrain_closeup.jpg)
+![Wheel Closeup](images/drivetrain_closeup1.jpg)
+![Wheel Closeup](images/drivetrain_closeup2.jpg)
 
 ---
 

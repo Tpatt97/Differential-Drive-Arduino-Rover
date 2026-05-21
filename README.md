@@ -13,6 +13,8 @@ This project is a custom-built Arduino rover platform designed and fabricated fr
 
 The rover uses a differential steering drivetrain powered by dual DC gear motors controlled through PWM transistor stages. Real-time telemetry is displayed through an onboard I2C OLED display while joystick input provides proportional throttle and steering control.
 
+![Rover Demo](media/gif/Diff_Steering.gif)
+
 The project combines:
 
 - Mechanical CAD design

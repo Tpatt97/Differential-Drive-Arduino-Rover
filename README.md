@@ -3,6 +3,8 @@ Custom differential-drive rover featuring a fully 3D printed chassis, PWM motor 
 
 ![Rover Demo](media/Rover_Demo.gif)
 
+![HERO Image](images/cad_renders/Main.jpg)
+
 ---
 
 ## Project Overview

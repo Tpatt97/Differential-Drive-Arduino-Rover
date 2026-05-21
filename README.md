@@ -53,7 +53,7 @@ The project combines:
 
 ### Modular Assembly
 
-- The upper electronics tray was designed as a removable modular assembly using alignment pins and recessed magnetic attachment points integrated directly into the chassis geometry. This allowed rapid access to the embedded electronics while maintaining repeatable alignment and secure retention during operation.
+- The upper electronics tray was designed as a removable modular assembly using alignment pins and recessed magnetic attachment points integrated directly into the lower chassis and upper tray. This architecture allowed rapid access to the battery bank while maintaining repeatable alignment and secure retention of the embedded electronics during both battery replacement and rover operation.
   
 ![Modular System](images/Modular_System_2.JPG)
 
